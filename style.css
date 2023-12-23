@@ -1,0 +1,120 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@300;400;500;600;700&family=Shadows+Into+Light&family=Wallpoet&family=ZCOOL+QingKe+HuangYou&display=swap');
+
+
+
+
+.myin{
+    width: 600px;
+    height: 500px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.myin-2{
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    color: #fff;
+}
+
+.myin-2:focus{
+    outline: none!important;
+    color: #fff;
+}
+
+
+.btns{
+    margin: auto;
+    text-align: center;
+}
+
+.btn1{
+    border-radius: 8px;
+    background-color: #8a2be2;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    transition:.3s ease all;
+    box-shadow: inset -7px -7px 9px rgba(0,0);
+    padding: 20px;
+    margin: 50px 10px;
+    font-family: 'Wallpoet', cursive;
+
+}
+.btn2{
+    border-radius: 8px;
+    background-color: #8a2be2;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    transition:.3s ease all;
+    padding: 20px;
+    margin: 50px 10px;
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+
+}
+.btn3{
+    border-radius: 8px;
+    background-color: #8a2be2;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    transition:.3s ease all;
+    padding: 20px;
+    margin: 50px 10px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.btn4{
+    border-radius: 8px;
+    background-color: #8a2be2;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    transition:.3s ease all;
+    padding: 20px;
+    margin: 30px 20px;
+    font-family: 'Lobster', cursive;
+}
+
+.ch1{
+    font-family: 'Wallpoet', cursive;
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    color: #fff;
+}
+
+.ch2{
+    font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    color: #fff;    
+}
+
+.ch3{
+    font-family: 'Shadows Into Light', cursive;
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    color: #fff;}
+
+.ch4{
+    
+    font-family: 'Lobster', cursive;
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    color: #fff;
+}
+
+button{
+    padding: 20px;
+}
